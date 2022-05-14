@@ -1,5 +1,5 @@
-#Insertion Sort
-##Sıralama aşamaları
+# Insertion Sort
+## Sıralama aşamaları
 Dizinin sıralanmamış hali
 `[22,27,16,2,18,6]`
 
@@ -24,12 +24,12 @@ Altıncı Geçiş
 Sıralı hali
 `[2,6,16,18,22,27]`
 
-##Big-O notasyonu
+## Big-O notasyonu
 n elemanlı diziyi sıralamak için n kere geçiş yaptık. n * n = n^2 O(n)=n^2 bulunur.
 
 Dizi sıralandıktan sonra 18 elemanı average case sayılır.
 
-##Başka bir örnek
+## Başka bir örnek
 Dizinin sıralanmamış hali
 `[7,3,5,8,2,9,4,15,6]`
 
